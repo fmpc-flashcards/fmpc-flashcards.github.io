@@ -1,0 +1,386 @@
+[
+  {
+    "n": 1,
+    "phase": "Acquisition",
+    "title": "Semaine 1 — Anatomie, Biologie, Pathologie médicale, Pathologie chirurgicale, Urgences médicales, Urgences chirurgicales",
+    "focus": "Anatomie — Membre supérieur (1 sujet); Anatomie — Neuro-anatomie (1 sujet); Biologie — Physiologie de la reproduction (1 sujet); Pathologie médicale — Diabétologie (1 sujet); Pathologie médicale — Infectiologie (1 sujet); Pathologie médicale — Dermatologie (1 sujet); Pathologie médicale — Psychiatrie (1 sujet); Pathologie chirurgicale — Chirurgie digestive (1 sujet); Pathologie chirurgicale — Gynécologie-obstétrique (1 sujet); Urgences médicales — Hématologie (1 sujet); Urgences médicales — Pédiatrie (1 sujet); Urgences chirurgicales — Urologie (1 sujet)",
+    "tasks": [
+      "Étudier les 12 sujets de la semaine",
+      "Passer toutes les cartes en mode normal (question → réponse)",
+      "Marquer les cartes difficiles et les revoir en fin de semaine",
+      "Faire une session de révision des semaines précédentes"
+    ]
+  },
+  {
+    "n": 2,
+    "phase": "Acquisition",
+    "title": "Semaine 2 — Anatomie, Biologie, Pathologie médicale, Pathologie chirurgicale, Urgences médicales, Urgences chirurgicales",
+    "focus": "Anatomie — Membre supérieur (1 sujet); Anatomie — Pelvis (1 sujet); Biologie — Métabolisme (1 sujet); Pathologie médicale — Diabétologie (1 sujet); Pathologie médicale — Pharmacologie (1 sujet); Pathologie médicale — Dermatologie (1 sujet); Pathologie médicale — Oncologie (1 sujet); Pathologie chirurgicale — Chirurgie hépato-biliaire (1 sujet); Pathologie chirurgicale — Gynécologie-obstétrique (1 sujet); Urgences médicales — Hématologie (1 sujet); Urgences médicales — Pédiatrie (1 sujet); Urgences chirurgicales — Urologie (1 sujet)",
+    "tasks": [
+      "Étudier les 12 sujets de la semaine",
+      "Passer toutes les cartes en mode normal (question → réponse)",
+      "Marquer les cartes difficiles et les revoir en fin de semaine",
+      "Faire une session de révision des semaines précédentes"
+    ]
+  },
+  {
+    "n": 3,
+    "phase": "Acquisition",
+    "title": "Semaine 3 — Anatomie, Biologie, Pathologie médicale, Pathologie chirurgicale, Urgences médicales, Urgences chirurgicales",
+    "focus": "Anatomie — Membre supérieur (1 sujet); Biologie — Physiologie respiratoire (1 sujet); Biologie — Endocrinologie (1 sujet); Pathologie médicale — Diabétologie (1 sujet); Pathologie médicale — Néphrologie (1 sujet); Pathologie médicale — Dermatologie (1 sujet); Pathologie médicale — Oncologie (1 sujet); Pathologie chirurgicale — Chirurgie hépato-biliaire (1 sujet); Pathologie chirurgicale — Gynécologie-obstétrique (1 sujet); Urgences médicales — Hématologie (1 sujet); Urgences médicales — Gynécologie-obstétrique (1 sujet); Urgences chirurgicales — ORL (1 sujet)",
+    "tasks": [
+      "Étudier les 12 sujets de la semaine",
+      "Passer toutes les cartes en mode normal (question → réponse)",
+      "Marquer les cartes difficiles et les revoir en fin de semaine",
+      "Faire une session de révision des semaines précédentes"
+    ]
+  },
+  {
+    "n": 4,
+    "phase": "Acquisition",
+    "title": "Semaine 4 — Anatomie, Biologie, Pathologie médicale, Pathologie chirurgicale, Urgences médicales, Urgences chirurgicales",
+    "focus": "Anatomie — Membre inférieur (1 sujet); Biologie — Physiologie respiratoire (1 sujet); Biologie — Physiologie rénale et hydro-électrolytique (1 sujet); Pathologie médicale — Métabolisme (1 sujet); Pathologie médicale — Néphrologie (1 sujet); Pathologie médicale — Infectiologie (1 sujet); Pathologie médicale — Pédiatrie (1 sujet); Pathologie chirurgicale — Chirurgie hépato-biliaire (1 sujet); Urgences médicales — Cardiologie (1 sujet); Urgences médicales — Hématologie (1 sujet); Urgences médicales — Gynécologie-obstétrique (1 sujet); Urgences chirurgicales — ORL (1 sujet)",
+    "tasks": [
+      "Étudier les 12 sujets de la semaine",
+      "Passer toutes les cartes en mode normal (question → réponse)",
+      "Marquer les cartes difficiles et les revoir en fin de semaine",
+      "Faire une session de révision des semaines précédentes"
+    ]
+  },
+  {
+    "n": 5,
+    "phase": "Acquisition",
+    "title": "Semaine 5 — Anatomie, Biologie, Pathologie médicale, Pathologie chirurgicale, Urgences médicales, Urgences chirurgicales",
+    "focus": "Anatomie — Membre inférieur (1 sujet); Biologie — Physiologie respiratoire (1 sujet); Biologie — Métabolisme (1 sujet); Pathologie médicale — Gynécologie-obstétrique (1 sujet); Pathologie médicale — Néphrologie (1 sujet); Pathologie médicale — Dermatologie (1 sujet); Pathologie médicale — Pédiatrie (1 sujet); Pathologie chirurgicale — Chirurgie digestive (1 sujet); Urgences médicales — Cardiologie (1 sujet); Urgences médicales — Hématologie (1 sujet); Urgences médicales — Gynécologie-obstétrique (1 sujet); Urgences chirurgicales — ORL (1 sujet)",
+    "tasks": [
+      "Étudier les 12 sujets de la semaine",
+      "Passer toutes les cartes en mode normal (question → réponse)",
+      "Marquer les cartes difficiles et les revoir en fin de semaine",
+      "Faire une session de révision des semaines précédentes"
+    ]
+  },
+  {
+    "n": 6,
+    "phase": "Acquisition",
+    "title": "Semaine 6 — Anatomie, Biologie, Pathologie médicale, Pathologie chirurgicale, Urgences médicales, Urgences chirurgicales",
+    "focus": "Anatomie — Membre supérieur (1 sujet); Biologie — Physiologie cardiovasculaire (1 sujet); Biologie — Immunologie (1 sujet); Pathologie médicale — Métabolisme (1 sujet); Pathologie médicale — Néphrologie (1 sujet); Pathologie médicale — Rhumatologie (1 sujet); Pathologie médicale — Pédiatrie (1 sujet); Pathologie chirurgicale — Chirurgie digestive (1 sujet); Urgences médicales — Cardiologie (1 sujet); Urgences médicales — Hématologie (1 sujet); Urgences médicales — Gynécologie-obstétrique (1 sujet); Urgences chirurgicales — Ophtalmologie (1 sujet)",
+    "tasks": [
+      "Étudier les 12 sujets de la semaine",
+      "Passer toutes les cartes en mode normal (question → réponse)",
+      "Marquer les cartes difficiles et les revoir en fin de semaine",
+      "Faire une session de révision des semaines précédentes"
+    ]
+  },
+  {
+    "n": 7,
+    "phase": "Acquisition",
+    "title": "Semaine 7 — Anatomie, Biologie, Pathologie médicale, Pathologie chirurgicale, Urgences médicales, Urgences chirurgicales",
+    "focus": "Anatomie — Membre supérieur (1 sujet); Biologie — Physiologie cardiovasculaire (1 sujet); Biologie — Immunologie (1 sujet); Pathologie médicale — Hématologie (1 sujet); Pathologie médicale — Néphrologie (1 sujet); Pathologie médicale — Rhumatologie (1 sujet); Pathologie médicale — Pédiatrie (1 sujet); Pathologie chirurgicale — Chirurgie digestive (1 sujet); Urgences médicales — Cardiologie (1 sujet); Urgences médicales — Néphrologie (1 sujet); Urgences médicales — Gynécologie-obstétrique (1 sujet); Urgences chirurgicales — Ophtalmologie (1 sujet)",
+    "tasks": [
+      "Étudier les 12 sujets de la semaine",
+      "Passer toutes les cartes en mode normal (question → réponse)",
+      "Marquer les cartes difficiles et les revoir en fin de semaine",
+      "Faire une session de révision des semaines précédentes"
+    ]
+  },
+  {
+    "n": 8,
+    "phase": "Acquisition",
+    "title": "Semaine 8 — Anatomie, Biologie, Pathologie médicale, Pathologie chirurgicale, Urgences médicales, Urgences chirurgicales",
+    "focus": "Anatomie — Membre supérieur (1 sujet); Biologie — Physiologie cardiovasculaire (1 sujet); Biologie — Immunologie (1 sujet); Pathologie médicale — Hématologie (1 sujet); Pathologie médicale — Néphrologie (1 sujet); Pathologie médicale — Rhumatologie (1 sujet); Pathologie médicale — Pédiatrie (1 sujet); Pathologie chirurgicale — Chirurgie digestive (1 sujet); Urgences médicales — Cardiologie (1 sujet); Urgences médicales — Néphrologie (1 sujet); Urgences médicales — Gynécologie-obstétrique (1 sujet); Urgences chirurgicales — Traumatologie (1 sujet)",
+    "tasks": [
+      "Étudier les 12 sujets de la semaine",
+      "Passer toutes les cartes en mode normal (question → réponse)",
+      "Marquer les cartes difficiles et les revoir en fin de semaine",
+      "Faire une session de révision des semaines précédentes"
+    ]
+  },
+  {
+    "n": 9,
+    "phase": "Consolidation",
+    "title": "Semaine 9 — Anatomie, Biologie, Pathologie médicale, Pathologie chirurgicale, Urgences médicales, Urgences chirurgicales",
+    "focus": "Anatomie — Membre inférieur (1 sujet); Biologie — Physiologie générale (1 sujet); Biologie — Immunologie (1 sujet); Pathologie médicale — Hématologie (1 sujet); Pathologie médicale — Pneumologie (1 sujet); Pathologie médicale — Rhumatologie (1 sujet); Pathologie médicale — Pédiatrie (1 sujet); Pathologie chirurgicale — Urologie (1 sujet); Urgences médicales — Cardiologie (1 sujet); Urgences médicales — Néphrologie (1 sujet); Urgences médicales — Choc (1 sujet); Urgences chirurgicales — Chirurgie vasculaire (1 sujet)",
+    "tasks": [
+      "Étudier les 12 sujets de la semaine",
+      "Passer toutes les cartes en mode normal (question → réponse)",
+      "Marquer les cartes difficiles et les revoir en fin de semaine",
+      "Faire une session de révision des semaines précédentes"
+    ]
+  },
+  {
+    "n": 10,
+    "phase": "Consolidation",
+    "title": "Semaine 10 — Anatomie, Biologie, Pathologie médicale, Pathologie chirurgicale, Urgences médicales, Urgences chirurgicales",
+    "focus": "Anatomie — Membre inférieur (1 sujet); Biologie — Physiologie rénale et hydro-électrolytique (1 sujet); Biologie — Hématologie (1 sujet); Pathologie médicale — Hématologie (1 sujet); Pathologie médicale — Pneumologie (1 sujet); Pathologie médicale — Rhumatologie (1 sujet); Pathologie médicale — Pédiatrie (1 sujet); Pathologie chirurgicale — Urologie (1 sujet); Urgences médicales — Pneumologie (1 sujet); Urgences médicales — Néphrologie (1 sujet); Urgences médicales — Choc (1 sujet); Urgences chirurgicales — Neurochirurgie (1 sujet)",
+    "tasks": [
+      "Étudier les 12 sujets de la semaine",
+      "Passer toutes les cartes en mode normal (question → réponse)",
+      "Marquer les cartes difficiles et les revoir en fin de semaine",
+      "Faire une session de révision des semaines précédentes"
+    ]
+  },
+  {
+    "n": 11,
+    "phase": "Consolidation",
+    "title": "Semaine 11 — Anatomie, Biologie, Pathologie médicale, Pathologie chirurgicale, Urgences médicales, Urgences chirurgicales",
+    "focus": "Anatomie — Tête et cou (1 sujet); Biologie — Physiologie rénale et hydro-électrolytique (1 sujet); Biologie — Hématologie (1 sujet); Pathologie médicale — Hématologie (1 sujet); Pathologie médicale — Pneumologie (2 sujets); Pathologie médicale — Pédiatrie (1 sujet); Pathologie chirurgicale — Urologie (1 sujet); Urgences médicales — Pneumologie (1 sujet); Urgences médicales — Néphrologie (1 sujet); Urgences médicales — Choc (1 sujet); Urgences chirurgicales — Neurochirurgie (1 sujet)",
+    "tasks": [
+      "Étudier les 12 sujets de la semaine",
+      "Passer toutes les cartes en mode normal (question → réponse)",
+      "Marquer les cartes difficiles et les revoir en fin de semaine",
+      "Faire une session de révision des semaines précédentes"
+    ]
+  },
+  {
+    "n": 12,
+    "phase": "Consolidation",
+    "title": "Semaine 12 — Anatomie, Biologie, Pathologie médicale, Pathologie chirurgicale, Urgences médicales, Urgences chirurgicales",
+    "focus": "Anatomie — Tête et cou (1 sujet); Biologie — Physiologie rénale et hydro-électrolytique (1 sujet); Biologie — Hématologie (1 sujet); Pathologie médicale — Hématologie (1 sujet); Pathologie médicale — Pneumologie (1 sujet); Pathologie médicale — Rhumatologie (1 sujet); Pathologie médicale — Pédiatrie (1 sujet); Pathologie chirurgicale — Urologie (1 sujet); Urgences médicales — Pneumologie (1 sujet); Urgences médicales — Néphrologie (1 sujet); Urgences médicales — Choc (1 sujet); Urgences chirurgicales — Neurochirurgie (1 sujet)",
+    "tasks": [
+      "Étudier les 12 sujets de la semaine",
+      "Passer toutes les cartes en mode normal (question → réponse)",
+      "Marquer les cartes difficiles et les revoir en fin de semaine",
+      "Faire une session de révision des semaines précédentes"
+    ]
+  },
+  {
+    "n": 13,
+    "phase": "Consolidation",
+    "title": "Semaine 13 — Anatomie, Biologie, Pathologie médicale, Pathologie chirurgicale, Urgences médicales, Urgences chirurgicales",
+    "focus": "Anatomie — Thorax (1 sujet); Biologie — Physiologie rénale et hydro-électrolytique (1 sujet); Biologie — Hématologie (1 sujet); Pathologie médicale — Hématologie (1 sujet); Pathologie médicale — Pneumologie (1 sujet); Pathologie médicale — Pharmacologie (1 sujet); Pathologie médicale — Pédiatrie (1 sujet); Pathologie chirurgicale — Urologie (1 sujet); Urgences médicales — Pneumologie (1 sujet); Urgences médicales — Gastro-entérologie (1 sujet); Urgences médicales — Neurologie (1 sujet); Urgences chirurgicales — Neurochirurgie (1 sujet)",
+    "tasks": [
+      "Étudier les 12 sujets de la semaine",
+      "Passer toutes les cartes en mode normal (question → réponse)",
+      "Marquer les cartes difficiles et les revoir en fin de semaine",
+      "Faire une session de révision des semaines précédentes"
+    ]
+  },
+  {
+    "n": 14,
+    "phase": "Consolidation",
+    "title": "Semaine 14 — Anatomie, Biologie, Pathologie médicale, Pathologie chirurgicale, Urgences médicales, Urgences chirurgicales",
+    "focus": "Anatomie — Thorax (1 sujet); Biologie — Physiologie rénale et hydro-électrolytique (1 sujet); Biologie — Hématologie (1 sujet); Pathologie médicale — Hématologie (1 sujet); Pathologie médicale — Pneumologie (1 sujet); Pathologie médicale — Pharmacologie (1 sujet); Pathologie médicale — Pédiatrie (1 sujet); Pathologie chirurgicale — ORL (1 sujet); Urgences médicales — Endocrinologie (1 sujet); Urgences médicales — Gastro-entérologie (1 sujet); Urgences médicales — Réanimation (1 sujet); Urgences chirurgicales — Neurochirurgie (1 sujet)",
+    "tasks": [
+      "Étudier les 12 sujets de la semaine",
+      "Passer toutes les cartes en mode normal (question → réponse)",
+      "Marquer les cartes difficiles et les revoir en fin de semaine",
+      "Faire une session de révision des semaines précédentes"
+    ]
+  },
+  {
+    "n": 15,
+    "phase": "Consolidation",
+    "title": "Semaine 15 — Anatomie, Biologie, Pathologie médicale, Pathologie chirurgicale, Urgences médicales, Urgences chirurgicales",
+    "focus": "Anatomie — Thorax (1 sujet); Biologie — Physiologie rénale et hydro-électrolytique (1 sujet); Biologie — Hématologie (1 sujet); Pathologie médicale — Hématologie (1 sujet); Pathologie médicale — Pneumologie (1 sujet); Pathologie médicale — Rhumatologie (1 sujet); Pathologie médicale — Pédiatrie (1 sujet); Pathologie chirurgicale — ORL (1 sujet); Urgences médicales — Endocrinologie (1 sujet); Urgences médicales — Gastro-entérologie (1 sujet); Urgences médicales — Toxicologie (1 sujet); Urgences chirurgicales — Traumatologie (1 sujet)",
+    "tasks": [
+      "Étudier les 12 sujets de la semaine",
+      "Passer toutes les cartes en mode normal (question → réponse)",
+      "Marquer les cartes difficiles et les revoir en fin de semaine",
+      "Faire une session de révision des semaines précédentes"
+    ]
+  },
+  {
+    "n": 16,
+    "phase": "Consolidation",
+    "title": "Semaine 16 — Anatomie, Biologie, Pathologie médicale, Pathologie chirurgicale, Urgences médicales, Urgences chirurgicales",
+    "focus": "Anatomie — Thorax (1 sujet); Biologie — Physiologie rénale et hydro-électrolytique (1 sujet); Biologie — Hématologie (1 sujet); Pathologie médicale — Hématologie (1 sujet); Pathologie médicale — Pneumologie (1 sujet); Pathologie médicale — Rhumatologie (1 sujet); Pathologie médicale — Pédiatrie (1 sujet); Pathologie chirurgicale — ORL (1 sujet); Urgences médicales — Endocrinologie (1 sujet); Urgences médicales — Gastro-entérologie (2 sujets); Urgences chirurgicales — Traumatologie (1 sujet)",
+    "tasks": [
+      "Étudier les 12 sujets de la semaine",
+      "Passer toutes les cartes en mode normal (question → réponse)",
+      "Marquer les cartes difficiles et les revoir en fin de semaine",
+      "Faire une session de révision des semaines précédentes"
+    ]
+  },
+  {
+    "n": 17,
+    "phase": "Approfondissement",
+    "title": "Semaine 17 — Anatomie, Biologie, Pathologie médicale, Pathologie chirurgicale, Urgences médicales, Urgences chirurgicales",
+    "focus": "Anatomie — Thorax (1 sujet); Biologie — Physiologie digestive et hépatique (1 sujet); Biologie — Hématologie (1 sujet); Pathologie médicale — Cardiologie (1 sujet); Pathologie médicale — Pneumologie (1 sujet); Pathologie médicale — Rhumatologie (1 sujet); Pathologie médicale — Pédiatrie (1 sujet); Pathologie chirurgicale — Ophtalmologie (1 sujet); Urgences médicales — Endocrinologie (1 sujet); Urgences médicales — Gastro-entérologie (2 sujets); Urgences chirurgicales — Traumatologie (1 sujet)",
+    "tasks": [
+      "Étudier les 12 sujets de la semaine",
+      "Passer toutes les cartes en mode normal (question → réponse)",
+      "Marquer les cartes difficiles et les revoir en fin de semaine",
+      "Faire une session de révision des semaines précédentes"
+    ]
+  },
+  {
+    "n": 18,
+    "phase": "Approfondissement",
+    "title": "Semaine 18 — Anatomie, Biologie, Pathologie médicale, Pathologie chirurgicale, Urgences médicales, Urgences chirurgicales",
+    "focus": "Anatomie — Abdomen (1 sujet); Biologie — Physiologie digestive et hépatique (1 sujet); Biologie — Hématologie (1 sujet); Pathologie médicale — Cardiologie (1 sujet); Pathologie médicale — Pneumologie (1 sujet); Pathologie médicale — Rhumatologie (1 sujet); Pathologie médicale — Gynécologie-obstétrique (1 sujet); Pathologie chirurgicale — Chirurgie hépato-biliaire (1 sujet); Urgences médicales — Endocrinologie (1 sujet); Urgences médicales — Neurologie (1 sujet); Urgences médicales — Cardiologie (1 sujet); Urgences chirurgicales — Traumatologie (1 sujet)",
+    "tasks": [
+      "Étudier les 12 sujets de la semaine",
+      "Passer toutes les cartes en mode normal (question → réponse)",
+      "Marquer les cartes difficiles et les revoir en fin de semaine",
+      "Faire une session de révision des semaines précédentes"
+    ]
+  },
+  {
+    "n": 19,
+    "phase": "Approfondissement",
+    "title": "Semaine 19 — Anatomie, Biologie, Pathologie médicale, Pathologie chirurgicale, Urgences médicales, Urgences chirurgicales",
+    "focus": "Anatomie — Abdomen (1 sujet); Biologie — Physiologie digestive et hépatique (1 sujet); Biologie — Hématologie (1 sujet); Pathologie médicale — Cardiologie (1 sujet); Pathologie médicale — Pneumologie (1 sujet); Pathologie médicale — Rhumatologie (1 sujet); Pathologie médicale — Gynécologie-obstétrique (1 sujet); Pathologie chirurgicale — Chirurgie vasculaire (1 sujet); Urgences médicales — Infectiologie (1 sujet); Urgences médicales — Neurologie (1 sujet); Urgences médicales — Pneumologie (1 sujet); Urgences chirurgicales — Traumatologie (1 sujet)",
+    "tasks": [
+      "Étudier les 12 sujets de la semaine",
+      "Passer toutes les cartes en mode normal (question → réponse)",
+      "Marquer les cartes difficiles et les revoir en fin de semaine",
+      "Faire une session de révision des semaines précédentes"
+    ]
+  },
+  {
+    "n": 20,
+    "phase": "Approfondissement",
+    "title": "Semaine 20 — Anatomie, Biologie, Pathologie médicale, Pathologie chirurgicale, Urgences médicales, Urgences chirurgicales",
+    "focus": "Anatomie — Abdomen (1 sujet); Biologie — Physiologie digestive et hépatique (1 sujet); Biologie — Hématologie (1 sujet); Pathologie médicale — Cardiologie (1 sujet); Pathologie médicale — Pneumologie (1 sujet); Pathologie médicale — Rhumatologie (1 sujet); Pathologie médicale — Gynécologie-obstétrique (1 sujet); Pathologie chirurgicale — Neurochirurgie (1 sujet); Urgences médicales — Infectiologie (1 sujet); Urgences médicales — Neurologie (1 sujet); Urgences chirurgicales — Chirurgie digestive (1 sujet); Urgences chirurgicales — Traumatologie (1 sujet)",
+    "tasks": [
+      "Étudier les 12 sujets de la semaine",
+      "Passer toutes les cartes en mode normal (question → réponse)",
+      "Marquer les cartes difficiles et les revoir en fin de semaine",
+      "Faire une session de révision des semaines précédentes"
+    ]
+  },
+  {
+    "n": 21,
+    "phase": "Approfondissement",
+    "title": "Semaine 21 — Anatomie, Biologie, Pathologie médicale, Pathologie chirurgicale, Urgences médicales, Urgences chirurgicales",
+    "focus": "Anatomie — Pelvis (1 sujet); Biologie — Endocrinologie (1 sujet); Biologie — Hématologie (1 sujet); Pathologie médicale — Cardiologie (1 sujet); Pathologie médicale — Pneumologie (1 sujet); Pathologie médicale — Rhumatologie (1 sujet); Pathologie médicale — Gynécologie-obstétrique (1 sujet); Pathologie chirurgicale — Neurochirurgie (1 sujet); Urgences médicales — Infectiologie (1 sujet); Urgences médicales — Neurologie (1 sujet); Urgences chirurgicales — Chirurgie digestive (1 sujet); Urgences chirurgicales — Chirurgie pédiatrique (1 sujet)",
+    "tasks": [
+      "Étudier les 12 sujets de la semaine",
+      "Passer toutes les cartes en mode normal (question → réponse)",
+      "Marquer les cartes difficiles et les revoir en fin de semaine",
+      "Faire une session de révision des semaines précédentes"
+    ]
+  },
+  {
+    "n": 22,
+    "phase": "Approfondissement",
+    "title": "Semaine 22 — Anatomie, Biologie, Pathologie médicale, Pathologie chirurgicale, Urgences médicales, Urgences chirurgicales",
+    "focus": "Anatomie — Abdomen (1 sujet); Biologie — Physiologie rénale et hydro-électrolytique (1 sujet); Biologie — Hématologie (1 sujet); Pathologie médicale — Cardiologie (1 sujet); Pathologie médicale — Gastro-entérologie (1 sujet); Pathologie médicale — Rhumatologie (1 sujet); Pathologie médicale — Gynécologie-obstétrique (1 sujet); Pathologie chirurgicale — Chirurgie plastique et réparatrice (1 sujet); Urgences médicales — Infectiologie (1 sujet); Urgences médicales — Psychiatrie (1 sujet); Urgences chirurgicales — Traumatologie (1 sujet); Urgences chirurgicales — Chirurgie pédiatrique (1 sujet)",
+    "tasks": [
+      "Étudier les 12 sujets de la semaine",
+      "Passer toutes les cartes en mode normal (question → réponse)",
+      "Marquer les cartes difficiles et les revoir en fin de semaine",
+      "Faire une session de révision des semaines précédentes"
+    ]
+  },
+  {
+    "n": 23,
+    "phase": "Approfondissement",
+    "title": "Semaine 23 — Anatomie, Biologie, Pathologie médicale, Pathologie chirurgicale, Urgences médicales, Urgences chirurgicales",
+    "focus": "Anatomie — Abdomen (1 sujet); Biologie — Physiologie de la reproduction (1 sujet); Biologie — Biologie cellulaire et cancérologie (1 sujet); Pathologie médicale — Cardiologie (1 sujet); Pathologie médicale — Gastro-entérologie (1 sujet); Pathologie médicale — Neurologie (1 sujet); Pathologie médicale — Gynécologie-obstétrique (1 sujet); Pathologie chirurgicale — Brûlures (1 sujet); Urgences médicales — Infectiologie (1 sujet); Urgences médicales — Psychiatrie (1 sujet); Urgences chirurgicales — Chirurgie digestive (1 sujet); Urgences chirurgicales — Chirurgie pédiatrique (1 sujet)",
+    "tasks": [
+      "Étudier les 12 sujets de la semaine",
+      "Passer toutes les cartes en mode normal (question → réponse)",
+      "Marquer les cartes difficiles et les revoir en fin de semaine",
+      "Faire une session de révision des semaines précédentes"
+    ]
+  },
+  {
+    "n": 24,
+    "phase": "Approfondissement",
+    "title": "Semaine 24 — Anatomie, Biologie, Pathologie médicale, Pathologie chirurgicale, Urgences médicales, Urgences chirurgicales",
+    "focus": "Anatomie — Abdomen (1 sujet); Biologie — Neurophysiologie (1 sujet); Biologie — Pharmacologie / Microbiologie (1 sujet); Pathologie médicale — Cardiologie (1 sujet); Pathologie médicale — Gastro-entérologie (1 sujet); Pathologie médicale — Neurologie (1 sujet); Pathologie médicale — Gynécologie-obstétrique (1 sujet); Pathologie chirurgicale — Chirurgie pédiatrique (1 sujet); Urgences médicales — Rhumatologie (1 sujet); Urgences médicales — Psychiatrie (1 sujet); Urgences chirurgicales — Traumatologie (1 sujet); Urgences chirurgicales — Chirurgie pédiatrique (1 sujet)",
+    "tasks": [
+      "Étudier les 12 sujets de la semaine",
+      "Passer toutes les cartes en mode normal (question → réponse)",
+      "Marquer les cartes difficiles et les revoir en fin de semaine",
+      "Faire une session de révision des semaines précédentes"
+    ]
+  },
+  {
+    "n": 25,
+    "phase": "Révision intensive",
+    "title": "Semaine 25 — Anatomie, Biologie, Pathologie médicale, Pathologie chirurgicale, Urgences médicales, Urgences chirurgicales",
+    "focus": "Anatomie — Abdomen (1 sujet); Biologie — Neurophysiologie (1 sujet); Biologie — Biologie moléculaire (1 sujet); Pathologie médicale — Cardiologie (1 sujet); Pathologie médicale — Gastro-entérologie (1 sujet); Pathologie médicale — Neurologie (1 sujet); Pathologie médicale — Gynécologie-obstétrique (1 sujet); Pathologie chirurgicale — Neurochirurgie (1 sujet); Urgences médicales — Rhumatologie (1 sujet); Urgences médicales — Pédiatrie (1 sujet); Urgences chirurgicales — Chirurgie digestive (1 sujet); Urgences chirurgicales — Chirurgie pédiatrique (1 sujet)",
+    "tasks": [
+      "Étudier les 12 sujets de la semaine",
+      "Passer toutes les cartes en mode normal (question → réponse)",
+      "Marquer les cartes difficiles et les revoir en fin de semaine",
+      "Faire une session de révision des semaines précédentes"
+    ]
+  },
+  {
+    "n": 26,
+    "phase": "Révision intensive",
+    "title": "Semaine 26 — Anatomie, Biologie, Pathologie médicale, Pathologie chirurgicale, Urgences médicales, Urgences chirurgicales",
+    "focus": "Anatomie — Abdomen (1 sujet); Biologie — Neurophysiologie (1 sujet); Biologie — Biologie moléculaire (1 sujet); Pathologie médicale — Cardiologie (1 sujet); Pathologie médicale — Gastro-entérologie (1 sujet); Pathologie médicale — Neurologie (1 sujet); Pathologie médicale — Infectiologie (1 sujet); Pathologie chirurgicale — Chirurgie pédiatrique (1 sujet); Urgences médicales — Rhumatologie (1 sujet); Urgences médicales — Pédiatrie (1 sujet); Urgences chirurgicales — Chirurgie digestive (1 sujet); Urgences chirurgicales — Chirurgie pédiatrique (1 sujet)",
+    "tasks": [
+      "Étudier les 12 sujets de la semaine",
+      "Passer toutes les cartes en mode normal (question → réponse)",
+      "Marquer les cartes difficiles et les revoir en fin de semaine",
+      "Faire une session de révision des semaines précédentes"
+    ]
+  },
+  {
+    "n": 27,
+    "phase": "Révision intensive",
+    "title": "Semaine 27 — Anatomie, Biologie, Pathologie médicale, Pathologie chirurgicale, Urgences médicales, Urgences chirurgicales",
+    "focus": "Anatomie — Pelvis (1 sujet); Biologie — Endocrinologie (1 sujet); Pathologie médicale — Endocrinologie (1 sujet); Pathologie médicale — Pharmacologie (2 sujets); Pathologie médicale — Gastro-entérologie (1 sujet); Pathologie médicale — Neurologie (1 sujet); Pathologie chirurgicale — Chirurgie pédiatrique (1 sujet); Urgences médicales — Hématologie (1 sujet); Urgences médicales — Pédiatrie (1 sujet); Urgences chirurgicales — Chirurgie digestive (1 sujet); Urgences chirurgicales — Gynécologie-obstétrique (1 sujet)",
+    "tasks": [
+      "Étudier les 12 sujets de la semaine",
+      "Passer toutes les cartes en mode normal (question → réponse)",
+      "Marquer les cartes difficiles et les revoir en fin de semaine",
+      "Faire une session de révision des semaines précédentes"
+    ]
+  },
+  {
+    "n": 28,
+    "phase": "Révision intensive",
+    "title": "Semaine 28 — Anatomie, Biologie, Pathologie médicale, Pathologie chirurgicale, Urgences médicales, Urgences chirurgicales",
+    "focus": "Anatomie — Pelvis (1 sujet); Biologie — Physiologie de la reproduction (1 sujet); Pathologie médicale — Endocrinologie (1 sujet); Pathologie médicale — Infectiologie (1 sujet); Pathologie médicale — Gastro-entérologie (1 sujet); Pathologie médicale — Neurologie (1 sujet); Pathologie chirurgicale — Traumatologie et orthopédie (1 sujet); Pathologie chirurgicale — Gynécologie-obstétrique (1 sujet); Urgences médicales — Hématologie (1 sujet); Urgences médicales — Pédiatrie (1 sujet); Urgences chirurgicales — Chirurgie digestive (1 sujet); Urgences chirurgicales — Gynécologie-obstétrique (1 sujet)",
+    "tasks": [
+      "Étudier les 12 sujets de la semaine",
+      "Passer toutes les cartes en mode normal (question → réponse)",
+      "Marquer les cartes difficiles et les revoir en fin de semaine",
+      "Faire une session de révision des semaines précédentes"
+    ]
+  },
+  {
+    "n": 29,
+    "phase": "Révision intensive",
+    "title": "Semaine 29 — Anatomie, Biologie, Pathologie médicale, Pathologie chirurgicale, Urgences médicales, Urgences chirurgicales",
+    "focus": "Anatomie — Pelvis (1 sujet); Biologie — Physiologie de la reproduction (1 sujet); Pathologie médicale — Endocrinologie (1 sujet); Pathologie médicale — Infectiologie (1 sujet); Pathologie médicale — Gastro-entérologie (1 sujet); Pathologie médicale — Neurologie (1 sujet); Pathologie chirurgicale — Traumatologie et orthopédie (1 sujet); Pathologie chirurgicale — Gynécologie-obstétrique (1 sujet); Urgences médicales — Dermatologie (1 sujet); Urgences médicales — Pédiatrie (1 sujet); Urgences chirurgicales — Chirurgie digestive (1 sujet); Urgences chirurgicales — Gynécologie-obstétrique (1 sujet)",
+    "tasks": [
+      "Étudier les 12 sujets de la semaine",
+      "Passer toutes les cartes en mode normal (question → réponse)",
+      "Marquer les cartes difficiles et les revoir en fin de semaine",
+      "Faire une session de révision des semaines précédentes"
+    ]
+  },
+  {
+    "n": 30,
+    "phase": "Révision intensive",
+    "title": "Semaine 30 — Anatomie, Biologie, Pathologie médicale, Pathologie chirurgicale, Urgences médicales, Urgences chirurgicales",
+    "focus": "Anatomie — Pelvis (1 sujet); Biologie — Endocrinologie (1 sujet); Pathologie médicale — Endocrinologie (1 sujet); Pathologie médicale — Infectiologie (1 sujet); Pathologie médicale — Gastro-entérologie (1 sujet); Pathologie médicale — Psychiatrie (1 sujet); Pathologie chirurgicale — Traumatologie et orthopédie (1 sujet); Pathologie chirurgicale — Gynécologie-obstétrique (1 sujet); Urgences médicales — Dermatologie (1 sujet); Urgences médicales — Pédiatrie (1 sujet); Urgences chirurgicales — Chirurgie digestive (1 sujet); Urgences chirurgicales — Gynécologie-obstétrique (1 sujet)",
+    "tasks": [
+      "Étudier les 12 sujets de la semaine",
+      "Passer toutes les cartes en mode normal (question → réponse)",
+      "Marquer les cartes difficiles et les revoir en fin de semaine",
+      "Faire une session de révision des semaines précédentes"
+    ]
+  },
+  {
+    "n": 31,
+    "phase": "Révision intensive",
+    "title": "Semaine 31 — Anatomie, Biologie, Pathologie médicale, Pathologie chirurgicale, Urgences médicales, Urgences chirurgicales",
+    "focus": "Anatomie — Thorax (1 sujet); Biologie — Physiologie de la reproduction (1 sujet); Pathologie médicale — Endocrinologie (1 sujet); Pathologie médicale — Infectiologie (1 sujet); Pathologie médicale — Gastro-entérologie (1 sujet); Pathologie médicale — Psychiatrie (1 sujet); Pathologie chirurgicale — Traumatologie et orthopédie (1 sujet); Pathologie chirurgicale — Gynécologie-obstétrique (1 sujet); Urgences médicales — Dermatologie (1 sujet); Urgences médicales — Pédiatrie (1 sujet); Urgences chirurgicales — Chirurgie digestive (1 sujet); Urgences chirurgicales — Gynécologie-obstétrique (1 sujet)",
+    "tasks": [
+      "Étudier les 12 sujets de la semaine",
+      "Passer toutes les cartes en mode normal (question → réponse)",
+      "Marquer les cartes difficiles et les revoir en fin de semaine",
+      "Faire une session de révision des semaines précédentes"
+    ]
+  },
+  {
+    "n": 32,
+    "phase": "Révision intensive",
+    "title": "Semaine 32 — Anatomie, Biologie, Pathologie médicale, Pathologie chirurgicale, Urgences médicales, Urgences chirurgicales",
+    "focus": "Anatomie — Neuro-anatomie (1 sujet); Biologie — Physiologie de la reproduction (1 sujet); Pathologie médicale — Gynécologie-obstétrique (1 sujet); Pathologie médicale — Infectiologie (1 sujet); Pathologie médicale — Dermatologie (1 sujet); Pathologie médicale — Psychiatrie (1 sujet); Pathologie chirurgicale — Traumatologie et orthopédie (1 sujet); Pathologie chirurgicale — Gynécologie-obstétrique (1 sujet); Urgences médicales — Hématologie (1 sujet); Urgences médicales — Pédiatrie (1 sujet); Urgences chirurgicales — Urologie (1 sujet); Urgences chirurgicales — Gynécologie-obstétrique (1 sujet)",
+    "tasks": [
+      "Étudier les 12 sujets de la semaine",
+      "Révision intensive : toutes les cartes des sujets",
+      "Simuler des conditions d'examen",
+      "Revoir l'ensemble des cartes difficiles"
+    ]
+  }
+]

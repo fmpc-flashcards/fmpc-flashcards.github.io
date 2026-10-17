@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Anatomie",
+    "topics": 34,
+    "cards": 1020,
+    "section": "cartes",
+    "file": "disc-0.json"
+  },
+  {
+    "name": "Biologie",
+    "topics": 56,
+    "cards": 1680,
+    "section": "cartes",
+    "file": "disc-1.json"
+  },
+  {
+    "name": "Pathologie médicale",
+    "topics": 129,
+    "cards": 3870,
+    "section": "cartes",
+    "file": "disc-2.json"
+  },
+  {
+    "name": "Pathologie chirurgicale",
+    "topics": 40,
+    "cards": 1200,
+    "section": "cartes",
+    "file": "disc-3.json"
+  },
+  {
+    "name": "Urgences médicales",
+    "topics": 80,
+    "cards": 2400,
+    "section": "cartes",
+    "file": "disc-4.json"
+  },
+  {
+    "name": "Urgences chirurgicales",
+    "topics": 45,
+    "cards": 1350,
+    "section": "cartes",
+    "file": "disc-5.json"
+  }
+]
