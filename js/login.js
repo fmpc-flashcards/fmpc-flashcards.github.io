@@ -18,7 +18,7 @@ const FACULTIES = [
   ['fmpr', 'FMPR · Rabat', 'fmpr.flashcartes.com'],
   ['fmpa', 'FMPA · Agadir', 'fmpa.flashcartes.com'],
   ['fmpc', 'FMPC · Casablanca', 'fmpc.flashcartes.com'],
-  ['fmpc', 'FMPC · Casablanca', 'fmpc.flashcartes.com'],
+  ['fmpt', 'FMPT · Tanger', 'fmpt.flashcartes.com'],
   ['fmpo', 'FMPO · Oujda', 'fmpo.flashcartes.com'],
   ['fmpf', 'FMPF · Fès', 'fmpf.flashcartes.com'],
   ['fmpm', 'FMPM · Marrakech', 'fmpm.flashcartes.com'],
